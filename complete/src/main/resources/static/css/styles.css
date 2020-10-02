@@ -1,11 +1,16 @@
 #about-me{
     background-image: url(/img/Joiner.jpeg);
-    background-position: 50% 30%;
+    background-position: 60% 30%;
     font-size: 3em;
+    
 }
 #about-me p{
-    text-align: right;
+    text-align: center;
 }
 .lead{
     font-size: 1.5em;
+}
+#nasaAPOD{
+    background-image: url(https://api.nasa.gov/planetary/apod?api_key=QIPhzFn4MjBTzn5KyNGuqqrKabvBH2fCgrEaFExc);
+    background-size: 100px 100px;
 }
